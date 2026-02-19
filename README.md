@@ -1,6 +1,5 @@
-# Inventory-Optimization-Analysis
 Inventory optimization model using EOQ and demand forecasting techniques.
-Inventory Optimization Analysis – Shopee
+Inventory Optimization Analysis
 
 Objective
 To minimize total inventory cost using EOQ and Reorder Point model.
